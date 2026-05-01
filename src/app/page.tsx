@@ -20,7 +20,7 @@ export default function Home() {
           Coming soon
         </h1>
         <p className="text-lg leading-relaxed text-zinc-600 dark:text-zinc-400">
-          We&apos;re preparing the full experience. Stay tuned for the launch.
+          We&apos;re preparing the full experience. Stay tuned for the launch!
         </p>
 
         <div
