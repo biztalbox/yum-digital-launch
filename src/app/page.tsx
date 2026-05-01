@@ -13,14 +13,14 @@ export default function Home() {
         className="relative z-10 mx-auto max-w-lg text-center"
         aria-labelledby="coming-soon-heading"
       >
-        
+        <img src="" className="w-40 mx-auto block mb-20"/>
         <h1
           className="mb-4 bg-linear-to-b from-zinc-900 to-zinc-600 bg-clip-text text-7xl font-semibold tracking-tight text-transparent dark:from-zinc-50 dark:to-zinc-400"
         >
           Coming soon
         </h1>
         <p className="text-lg leading-relaxed text-zinc-600 dark:text-zinc-400">
-          We&apos;re preparing the full experience. Stay tuned for the launch!
+          We&apos;re working behind the scenes to bring you a complete and seamless experience. Our team is putting the finishing touches in place to ensure everything meets the highest standards. Stay tuned—something exciting is on the way!
         </p>
 
         <div
